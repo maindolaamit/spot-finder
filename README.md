@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Spot Finder
 
+This is a simple React project implemented using Functional components where you can search Tourists place nearby a Spot Card. [View Project here](https://maindolaamit.github.io/monster-rolodex/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
